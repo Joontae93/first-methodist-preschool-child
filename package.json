@@ -1,0 +1,16 @@
+{
+  "name": "first-methodist-preschool-child",
+  "version": "1.0.0",
+  "description": "The child theme for First Methodist Preschool",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "KJ Roelke",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^24.2.0",
+    "dotenv-webpack": "^8.0.1"
+  }
+}
